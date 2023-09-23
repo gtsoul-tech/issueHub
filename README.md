@@ -1,5 +1,5 @@
 # issueHub
-"Issue Tracking and Project Management Platform"
+<h1>"Issue Tracking and Project Management Platform"</h1>
 
 **The goals of the project include:**
 
