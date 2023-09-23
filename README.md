@@ -17,6 +17,7 @@ The back-end of the project utilizes Eclipse for Java development, MySQL 8.1 for
 the Hibernate Framework, and Apache Tomcat 9.1 for deployment.<br>
 
 <h1>The application's database utilizes 7 tables:</h1>
+
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/eafca43d-f52e-42bd-b6dc-7a2c3fc968d9)
 
 <h1>The platform design specifications include:</h1>
