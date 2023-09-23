@@ -29,7 +29,7 @@ Error management (tracking team details, error notification, conversion, resolut
 Member and team search through the platform based on queries<br>
 
 <h1>By completing the form, the user can create their account</h1>
-Each form checks both at the client and server side if the responses have the correct attributes (form validation), otherwise it displays an error message.
+Each form checks both at the client and server side if the responses have the correct attributes (form validation), otherwise it displays an error message.<br>
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/5a63290d-4649-4859-a806-dcd741f554f6)
 
 <h1>Login:</h1>
@@ -43,10 +43,10 @@ See the groups they have been invited to and accept or decline invitations.<br>
 Delete the invitations they have sent themselves.<br>
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/2173a5ed-adf6-467a-9a62-fdde8a310836)
 
-On this tab, they can select one of the projects they oversee to manage its information
+On this tab, they can select one of the projects they oversee to manage its information<br>
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/f6389102-2d2e-4230-9746-f43e4510b7d8)
 
-Management of the project (deletion, modification of its description) and management of the members (member information and the option to delete members)
+Management of the project (deletion, modification of its description) and management of the members (member information and the option to delete members)<br>
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/fc8afdfd-d592-4057-82ab-f5dd38b9553b)
 
 
@@ -63,12 +63,12 @@ They can view project information such as issues and members. They can also be r
 <h1>On the request tab:</h1><br>
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/54cd3c62-2ce3-4333-89de-208b20561c6d)
 
-Each user can have as many projects as they desire. If the project already exists in the database, it will display an error message
+Each user can have as many projects as they desire. If the project already exists in the database, it will display an error message<br>
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/57f007be-d1d4-4393-839a-9fc3aa7a8f75)
 
-On the platform each user can search for members:
+On the platform each user can search for members:<br>
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/44aa1870-95e1-4bbd-a5a1-db646f0f0fa8)
 
-or a project to join based on the title and description:
+or a project to join based on the title and description:<br>
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/b796602e-138f-4e95-a05b-7544e7235a47)
 
