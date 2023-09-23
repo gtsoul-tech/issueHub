@@ -30,9 +30,11 @@ Member and team search through the platform based on queries<br>
 
 <h1>By completing the form, the user can create their account</h1>
 Each form checks both at the client and server side if the responses have the correct attributes (form validation), otherwise it displays an error message.<br>
+
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/5a63290d-4649-4859-a806-dcd741f554f6)
 
 <h1>Login:</h1>
+
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/36b220a2-5edb-4521-b134-2f136f5eba38)
 
 <h1>At the profile the user can:</h1>
@@ -41,6 +43,7 @@ Delete their account by providing the password.<br>
 Change their password by providing the old password.<br>
 See the groups they have been invited to and accept or decline invitations.<br>
 Delete the invitations they have sent themselves.<br>
+
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/2173a5ed-adf6-467a-9a62-fdde8a310836)
 
 On this tab, they can select one of the projects they oversee to manage its information<br>
@@ -58,9 +61,11 @@ The team leader is the only one who can change almost all issue fields.<br>
 
 <h1>As a member you get a different view:</h1>
 They can view project information such as issues and members. They can also be removed from the team if desired.<br>
+
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/adf25977-5271-4fd6-9a5a-d3199f01da8b)
 
 <h1>On the request tab:</h1><br>
+
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/54cd3c62-2ce3-4333-89de-208b20561c6d)
 
 Each user can have as many projects as they desire. If the project already exists in the database, it will display an error message<br>
