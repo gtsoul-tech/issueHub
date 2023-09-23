@@ -12,9 +12,10 @@ The goals of the project include:
 
 This project draws inspiration from Jira and GitHub Issues.
 
-The front-end of the project is built using jQuery, JavaScript, Bootstrap 4, HTML, and JSP.<br>
-The back-end of the project utilizes Eclipse for Java development, MySQL 8.1 for the database, Java Servlets, <br>
-the Hibernate Framework, and Apache Tomcat 9.1 for deployment.<br>
+<h1>The front-end of the project is built using <bold>jQuery</bold>, <bold>JavaScript</bold>, <bold>Bootstrap 4</bold>, <bold>HTML</bold>, and <bold>JSP</bold>.</h1><br>
+
+<h1>The back-end of the project utilizes <bold>Eclipse for Java development</bold>, <bold>MySQL 8.1</bold> for the database, <bold>Java Servlets</bold>,
+the <bold>Hibernate Framework</bold>, and <bold>Apache Tomcat</bold> 9.1 for deployment.</h1><br>
 
 <h1>The application's database utilizes 7 tables:</h1>
 
