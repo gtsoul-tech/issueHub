@@ -1,4 +1,4 @@
-# issueHu
+# issueHub
 "Issue Tracking and Project Management Platform"
 
 The goals of the project include:
