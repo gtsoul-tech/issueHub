@@ -17,7 +17,7 @@ This project draws inspiration from Jira and GitHub Issues.
 <h2>The back-end of the project utilizes <bold>Eclipse for Java development</bold>, <bold>MySQL 8.1</bold> for the database, <bold>Java Servlets</bold>,
 the <bold>Hibernate Framework</bold>, and <bold>Apache Tomcat</bold> 9.1 for deployment.</h2><br>
 
-<h1>The application's database utilizes 7 tables:</h1>
+<h1>The application's database utilizes 7 tables:</h1><br>
 
 ![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/eafca43d-f52e-42bd-b6dc-7a2c3fc968d9)
 
