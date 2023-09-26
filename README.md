@@ -32,11 +32,11 @@ Member and team search through the platform based on queries<br>
 <h1>By completing the form, the user can create their account</h1>
 Each form checks both at the client and server side if the responses have the correct attributes (form validation), otherwise it displays an error message.<br>
 
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/5a63290d-4649-4859-a806-dcd741f554f6)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/5192aead-987d-4982-9720-af663304bd77)
 
 <h1>Login:</h1>
 
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/36b220a2-5edb-4521-b134-2f136f5eba38)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/5809dc84-07be-49f6-9741-a88a426c81bc)
 
 <h1>At the profile the user can:</h1>
 View their account information.<br>
@@ -45,36 +45,36 @@ Change their password by providing the old password.<br>
 See the groups they have been invited to and accept or decline invitations.<br>
 Delete the invitations they have sent themselves.<br>
 
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/2173a5ed-adf6-467a-9a62-fdde8a310836)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/a67e0e79-c6e5-4009-99b9-87d4e7a23b1f)
 
 On this tab, they can select one of the projects they oversee to manage its information<br>
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/f6389102-2d2e-4230-9746-f43e4510b7d8)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/ae1225e2-b943-49bb-bb8a-25d4b5b51862)
 
 Management of the project (deletion, modification of its description) and management of the members (member information and the option to delete members)<br>
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/fc8afdfd-d592-4057-82ab-f5dd38b9553b)
 
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/a747ff2a-3757-45f2-91fe-11a08bdeafd2)
 
 The user can view issue information and either delete them, assign them to a member, or edit their fields.<br>
 The user can create an issue by initially providing only the summary and description.<br>
 The team leader is the only one who can change almost all issue fields.<br>
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/3a8de3d9-7206-4057-9497-d000200e0788)
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/e067b532-13b9-412c-8704-f7f502092bca)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/4f970d81-18f8-4f2c-9af9-c99b653064bc)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/20d9eca4-a53c-471a-84ae-7a3cb25076e3)
 
 <h1>As a member you get a different view:</h1>
 They can view project information such as issues and members. They can also be removed from the team if desired.<br>
 
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/adf25977-5271-4fd6-9a5a-d3199f01da8b)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/f9cf6ba2-f255-4bdc-95c7-4a075a8d1254)
 
 <h1>On the request tab:</h1><br>
 
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/54cd3c62-2ce3-4333-89de-208b20561c6d)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/3a0bc692-e78a-4fd1-b2cf-d5663fca4e3b)
 
 Each user can have as many projects as they desire. If the project already exists in the database, it will display an error message<br>
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/57f007be-d1d4-4393-839a-9fc3aa7a8f75)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/dadf8c1e-0ccc-45fb-a8f4-6ca915556766)
 
 On the platform each user can search for members:<br>
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/44aa1870-95e1-4bbd-a5a1-db646f0f0fa8)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/1e8ca2f0-afc0-4b52-a55c-7812edab0b4f)
 
 or a project to join based on the title and description:<br>
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/b796602e-138f-4e95-a05b-7544e7235a47)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/d156f594-254e-40d7-8865-7772fdef7406)
 
