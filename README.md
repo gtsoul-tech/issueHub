@@ -19,7 +19,7 @@ the <bold>Hibernate Framework</bold>, and <bold>Apache Tomcat</bold> 9.1 for dep
 
 <h1>The application's database utilizes 7 tables:</h1><br>
 
-![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/eafca43d-f52e-42bd-b6dc-7a2c3fc968d9)
+![image](https://github.com/gtsoul-tech/issueHub/assets/56584633/474a254e-62ef-4dd8-bfce-cd7ded21c8b3)
 
 <h1>The platform design specifications include:</h1>
 
